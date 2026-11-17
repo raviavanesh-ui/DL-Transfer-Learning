@@ -1,8 +1,6 @@
 # DL- Developing a Neural Network Classification Model using Transfer Learning
 
-Name:Avanesh.R
-Reg No:212225240018
- 
+
 ## AIM
 To develop an image classification model using transfer learning with VGG19 architecture for the given dataset.
 
@@ -42,9 +40,9 @@ Evaluate the model with test accuracy, confusion matrix, classification report, 
 
 ## PROGRAM
 
-### Name: P.Bhavankumar
+### Name: Avanesh.R
 
-### Register Number: 212225240026
+### Register Number: 212225240018
 
 ```
 
